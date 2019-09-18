@@ -16,7 +16,7 @@ La cadena de restaurantes Pollito’s tiene la siguiente lista de productos, en 
 
 ### Ejecución
 ## Windows: 
-``java -jar Simulacion-Pseudoaleatiorios.jar``
+``java -jar RestaurantSimulation-1.0-SNAPSHOT.jar``
 
 ## Mac OS:
 ``Doble Click :)``
